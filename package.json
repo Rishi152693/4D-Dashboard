@@ -1,0 +1,1 @@
+{"name":"project-dashboard-hub","version":"1.0.0","private":true,"engines":{"node":"22.x"},"dependencies":{"@vercel/blob":"^2.8.2"},"devDependencies":{"esbuild":"^0.28.2"}}
